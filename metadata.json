@@ -1,0 +1,8 @@
+{
+  "name": "Win32 Hitbox Overlay Studio",
+  "description": "Interactive Windows button hitbox simulator and Python script builder using pywin32 and tkinter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
